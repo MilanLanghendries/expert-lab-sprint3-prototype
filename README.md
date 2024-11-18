@@ -33,9 +33,9 @@ To install the CleanPy Advanced package, follow these steps:
 
 You can easily install CleanPy Advanced directly from the repository by running the following command:
 
-    ```bash
-    pip install git+https://github.com/MilanLanghendries/expert-lab-sprint2-prototype.git 
-    ```
+```bash
+pip install git+https://github.com/MilanLanghendries/expert-lab-sprint2-prototype.git
+```
 
 This will automatically install CleanPy Advanced along with its dependencies.
 
